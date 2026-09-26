@@ -3,7 +3,7 @@ import {createRoot} from "react-dom/client";
 import "./styles.css";
 
 const configuredApi=import.meta.env.VITE_API_URL;
-const API=configuredApi ? (configuredApi.startsWith("http") ? configuredApi : `https://${configuredApi}`) : "http://127.0.0.1:8000";
+const API=configuredApi ? (configuredApi.startsWith("http") ? configuredApi : `https://${configuredApi}`) : "https://health-assisst.onrender.com/";
 const LANGUAGES={
   en:{name:"English",speak:"Speak symptoms",stop:"Stop recording",listening:"Recording...",placeholder:"Your offline transcript will appear here..."},
   te:{name:"తెలుగు",speak:"లక్షణాలను మాట్లాడండి",stop:"రికార్డింగ్ ఆపండి",listening:"రికార్డింగ్ అవుతోంది...",placeholder:"మీ ఆఫ్‌లైన్ ట్రాన్స్‌క్రిప్ట్ ఇక్కడ కనిపిస్తుంది..."},
