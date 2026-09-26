@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Common Cold",
+    "medicine_classes": [
+      "symptom-relief medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Influenza (Flu)",
+    "medicine_classes": [
+      "antiviral medicines for selected patients"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Asthma",
+    "medicine_classes": [
+      "inhaled bronchodilators",
+      "inhaled corticosteroids"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Pneumonia",
+    "medicine_classes": [
+      "antibiotics when bacterial",
+      "cause-specific treatment"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Bronchitis",
+    "medicine_classes": [
+      "supportive treatment",
+      "cause-specific treatment"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Tuberculosis (TB)",
+    "medicine_classes": [
+      "combination anti-TB therapy"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "COPD",
+    "medicine_classes": [
+      "bronchodilators",
+      "selected inhaled corticosteroids"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "COVID-19",
+    "medicine_classes": [
+      "supportive treatment",
+      "antivirals for selected high-risk patients"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Hypertension",
+    "medicine_classes": [
+      "ACE inhibitors",
+      "ARBs",
+      "calcium-channel blockers",
+      "thiazide-type diuretics"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Coronary Artery Disease",
+    "medicine_classes": [
+      "antiplatelet",
+      "statin",
+      "anti-anginal and cardiovascular medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Heart Failure",
+    "medicine_classes": [
+      "multiple guideline-directed cardiovascular medicine classes"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Anemia",
+    "medicine_classes": [
+      "iron",
+      "vitamin B12",
+      "folate depending on cause"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "High Cholesterol",
+    "medicine_classes": [
+      "statins",
+      "other lipid-lowering medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Type 1 Diabetes",
+    "medicine_classes": [
+      "insulin therapy"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "medicine_classes": [
+      "metformin",
+      "other glucose-lowering medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Obesity",
+    "medicine_classes": [
+      "lifestyle treatment",
+      "selected anti-obesity medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Thyroid Disorders",
+    "medicine_classes": [
+      "thyroid hormone replacement",
+      "antithyroid medicines depending on condition"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Dengue",
+    "medicine_classes": [
+      "supportive treatment"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Malaria",
+    "medicine_classes": [
+      "antimalarial regimen based on species and resistance"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Typhoid",
+    "medicine_classes": [
+      "appropriate antibiotic based on clinical assessment and resistance"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Cholera",
+    "medicine_classes": [
+      "oral/IV rehydration",
+      "antibiotics for selected patients"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Hepatitis",
+    "medicine_classes": [
+      "treatment varies by hepatitis type"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "medicine_classes": [
+      "antibiotic selected according to assessment/testing"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Migraine",
+    "medicine_classes": [
+      "migraine-specific medicines",
+      "pain medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Epilepsy",
+    "medicine_classes": [
+      "antiseizure medicines selected by seizure type"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Parkinson's Disease",
+    "medicine_classes": [
+      "dopaminergic and other neurologic medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Stroke",
+    "medicine_classes": [
+      "emergency and cause-specific treatment"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Alzheimer's Disease",
+    "medicine_classes": [
+      "symptom-targeted medicines for selected patients"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Arthritis",
+    "medicine_classes": [
+      "analgesics",
+      "anti-inflammatory or disease-modifying medicines depending on type"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Osteoporosis",
+    "medicine_classes": [
+      "bone-strengthening medicines",
+      "calcium/vitamin D when appropriate"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Back Pain",
+    "medicine_classes": [
+      "pain-management options",
+      "physical therapy"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Gout",
+    "medicine_classes": [
+      "anti-inflammatory medicines",
+      "urate-lowering therapy"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Eczema",
+    "medicine_classes": [
+      "emollients",
+      "topical anti-inflammatory medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Psoriasis",
+    "medicine_classes": [
+      "topical",
+      "systemic or biologic therapies depending on severity"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Acne",
+    "medicine_classes": [
+      "topical retinoids",
+      "benzoyl peroxide",
+      "other selected treatments"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Fungal Skin Infection",
+    "medicine_classes": [
+      "topical or systemic antifungals depending on site/severity"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Dermatitis",
+    "medicine_classes": [
+      "emollients",
+      "topical anti-inflammatory medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Gastritis",
+    "medicine_classes": [
+      "acid-suppressing medicines",
+      "cause-specific treatment"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "GERD / Acid Reflux",
+    "medicine_classes": [
+      "proton-pump inhibitors",
+      "H2 blockers"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Peptic Ulcer Disease",
+    "medicine_classes": [
+      "acid suppression",
+      "H. pylori eradication when confirmed"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Irritable Bowel Syndrome (IBS)",
+    "medicine_classes": [
+      "symptom-targeted medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Gastroenteritis",
+    "medicine_classes": [
+      "rehydration",
+      "cause-specific treatment"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Conjunctivitis",
+    "medicine_classes": [
+      "treatment depends on infectious/allergic cause"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Cataract",
+    "medicine_classes": [
+      "surgical evaluation rather than routine tablets"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Glaucoma",
+    "medicine_classes": [
+      "pressure-lowering eye medicines"
+    ],
+    "doctor_review": true
+  },
+  {
+    "name": "Ear Infection",
+    "medicine_classes": [
+      "pain relief",
+      "antibiotic/other treatment depending on cause"
+    ],
+    "doctor_review": true
+  }
+]
